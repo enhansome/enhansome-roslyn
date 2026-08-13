@@ -1,0 +1,534 @@
+{
+  "items": [
+    {
+      "description": "Awesome online tutorials to help you write your first analyzers, code fixes, and source generators.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How To Write a C# Analyzer and Code Fix",
+          "description": "The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T04:13:26Z",
+            "owner": "dotnet",
+            "repo": "roslyn",
+            "stars": 20610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C# Source Generators",
+          "description": "Comprehensive list of additional learning sources, samples, and experimental and productive source generators. A perfect reference once you grasp the basics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-04T11:55:47Z",
+            "owner": "amis92",
+            "repo": "csharp-source-generators",
+            "stars": 2417
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "Awesome open source projects built on top of Roslyn.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotnet-script",
+          "description": "Runs C# scripts from the .NET CLI, defines NuGet packages inline and edit/debugs them in VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-19T10:27:27Z",
+            "owner": "dotnet-script",
+            "repo": "dotnet-script",
+            "stars": 3008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoslynQuoter",
+          "description": "Online tool that for a given C# program generates syntax tree API calls that construct syntax tree of that program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-31T00:25:36Z",
+            "owner": "KirillOsenkov",
+            "repo": "RoslynQuoter",
+            "stars": 1094
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlubuCore",
+          "description": "Cross platform build automation tool for building projects and executing deployment scripts using C# code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-25T09:02:03Z",
+            "owner": "dotnetcore",
+            "repo": "FlubuCore",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Converter",
+          "description": "C# to VB.NET and VB.NET to C# transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T08:04:33Z",
+            "owner": "icsharpcode",
+            "repo": "CodeConverter",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roslyn-linq-rewrite",
+          "description": "Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-02-02T08:47:28Z",
+            "owner": "antiufo",
+            "repo": "roslyn-linq-rewrite",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scripty",
+          "description": "Tool to use Roslyn-powered C# scripts for code generation. You can think of it as a scripted alternative to T4 templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-07T17:29:20Z",
+            "owner": "daveaglick",
+            "repo": "Scripty",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGeneration.Roslyn",
+          "description": "Roslyn-based Code Generation during a build with design-time support.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-12-11T17:08:05Z",
+            "owner": "AArnott",
+            "repo": "CodeGeneration.Roslyn",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Testura.Code",
+          "description": "Wrapper around the Roslyn API used for generation, saving, and compiling C# code. Provides methods and helpers to generate classes, methods, statements, and expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T01:28:05Z",
+            "owner": "Testura",
+            "repo": "Testura.Code",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MirrorSharp",
+          "description": "Online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-18T23:48:33Z",
+            "owner": "ashmind",
+            "repo": "mirrorsharp",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uno SourceGenerator",
+          "description": "C# source code generator based on a project being built, using all of its syntactic and semantic model information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-22T13:23:51Z",
+            "owner": "unoplatform",
+            "repo": "Uno.SourceGeneration",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeAnalysis.CSharp.PatternMatching",
+          "description": "Intuitive pattern matching for Roslyn syntax trees. Simplifies C# syntax and semantic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-05-27T14:45:30Z",
+            "owner": "pvginkel",
+            "repo": "Microsoft.CodeAnalysis.CSharp.PatternMatching",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridge",
+          "description": "C# to JavaScript transpiler. Write modern mobile and web apps in C# and run them anywhere in JavaScript.",
+          "children": []
+        }
+      ],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "Awesome open source analyzers, code fixes, and refactorings.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roslynator",
+          "description": "Collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors, and many more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T18:15:27Z",
+            "owner": "dotnet",
+            "repo": "roslynator",
+            "stars": 3473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleCop Analyzers for the .NET Compiler Platform",
+          "description": "Port of StyleCop rules to Roslyn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-31T16:00:59Z",
+            "owner": "DotNetAnalyzers",
+            "repo": "StyleCopAnalyzers",
+            "stars": 2855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET Compiler Platform (\"Roslyn\") Analyzers",
+          "description": "Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T05:06:16Z",
+            "owner": "dotnet",
+            "repo": "roslyn-analyzers",
+            "stars": 1672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Cracker",
+          "description": "Analyzer library for C# and VB.NET. Offers diagnostics in many categories like performance, coding styles, as well as some basic refactorings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-13T22:18:31Z",
+            "owner": "code-cracker",
+            "repo": "code-cracker",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ErrorProne.NET",
+          "description": "Set of analyzers and code fixes focusing on the correctness and performance of C# programs. Inspired with Google's Error Prone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T00:41:53Z",
+            "owner": "SergeyTeplyakov",
+            "repo": "ErrorProne.NET",
+            "stars": 1124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapping Generator",
+          "description": "Code fix that generates arbitrary complex object-object mappings. It recognizes out of the box a large number of scenarios where mappings are used. A design-time alternative to AutoMapper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-01-16T08:27:46Z",
+            "owner": "cezarypiatek",
+            "repo": "MappingGenerator",
+            "stars": 1023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SonarC#",
+          "description": "Static code analyzer for C# language used as an extension for the SonarQube platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T00:36:43Z",
+            "owner": "SonarSource",
+            "repo": "sonar-dotnet",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roslyn Clr Heap Allocation Analyzer",
+          "description": "C# heap allocation analyzer that can detect explicit and many implicit allocations like boxing, closures, implicit delegate creations, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-05-26T20:34:13Z",
+            "owner": "microsoft",
+            "repo": "RoslynClrHeapAllocationAnalyzer",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refactoring Essentials for Visual Studio",
+          "description": "Refactorings, analyzers and code fixes for C# and VB.NET.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-08-04T21:09:25Z",
+            "owner": "icsharpcode",
+            "repo": "RefactoringEssentials",
+            "stars": 633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSharpGuidelinesAnalyzer",
+          "description": "Reports diagnostics for C# coding guidelines (https://csharpcodingguidelines.com/).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2026-04-20T01:23:03Z",
+            "owner": "bkoelman",
+            "repo": "CSharpGuidelinesAnalyzer",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSDiagnostics",
+          "description": "Collection of code-quality analyzers. Covers usages of async methods, flags enums, best practices in exception handling as well as many other code-quality checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-21T17:19:56Z",
+            "owner": "Vannevelj",
+            "repo": "VSDiagnostics",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nullable.Extended",
+          "description": "Roslyn tools and analyzers to improve the experience when coding with nullable reference types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-30T12:21:34Z",
+            "owner": "tom-englert",
+            "repo": "Nullable.Extended",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Open Source Analyzers, Code Fixes, and Refactorings"
+    },
+    {
+      "description": "Awesome libraries and frameworks for testing analyzers, code fixes, and refactorings.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft.CodeAnalysis.Testing",
+          "description": "Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of Roslyn SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T23:41:51Z",
+            "owner": "dotnet",
+            "repo": "roslyn-sdk",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoslynTestKit",
+          "description": "Lightweight framework for writing unit tests for analyzers, code fixes, refactorings, and completion providers. It's unit testing framework agnostic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-18T16:16:26Z",
+            "owner": "cezarypiatek",
+            "repo": "RoslynTestKit",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings"
+    },
+    {
+      "description": "Awesome (but mostly experimental at the moment, because .NET 5.0 and C# 9.0 are still in preview) source generators and open source projects that internally use source generators.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StrongInject",
+          "description": "Compile-time dependency injection container. Compile-time checked, reflection-free and runtime code generation free, thus fast and app-trimming-friendly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-30T11:38:44Z",
+            "owner": "YairHalberstadt",
+            "repo": "stronginject",
+            "stars": 868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generator.Equals",
+          "description": "Automatically implements equality and hashing for classes and records. Supports different comparison strategies. Offers similar functionality like IL weaving-based Equals.Fody.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T13:57:10Z",
+            "owner": "diegofrata",
+            "repo": "Generator.Equals",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonSrcGen",
+          "description": "Reflection-free JSON serializer. Allows extremely fast JSON processing by generating reflection-free serializers at the compile time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:01:32Z",
+            "owner": "trampster",
+            "repo": "JsonSrcGen",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StructPacker",
+          "description": "Low-level, lightweight and performance-focused serializer for C# struct types. Auto-generates C# serialization code to achieve peak runtime performance and efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-25T15:09:34Z",
+            "owner": "RudolfKurkaMs",
+            "repo": "StructPacker",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WrapperValueObject",
+          "description": "Creates boilerplate free wrappers around types. Especially useful for creating strongly typed wrappers around primitive types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-17T09:04:06Z",
+            "owner": "martinothamar",
+            "repo": "WrapperValueObject",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DpDtInject",
+          "description": "Proof-of-concept of a dependency injection container that transfers huge piece of resolving logic to the compilation stage. Offers additional compile-time safety and fast runtime resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-23T04:32:04Z",
+            "owner": "lsoft",
+            "repo": "DpdtInject",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svg to C# Source Generators",
+          "description": "SVG to C# compiler. Compiles SVG drawing markup to C# using SkiaSharp as rendering engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-05-19T06:07:23Z",
+            "owner": "wieslawsoltes",
+            "repo": "SourceGenerators",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Source Generators"
+    },
+    {
+      "description": "Contributions are welcome :-) The goal is to build a categorized community-driven collection of awesome Roslyn resources. Before contributing, please make sure to read the contribution guidelines.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Igor Rončević has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:55.641Z",
+    "original_repository": "ironcev/awesome-roslyn",
+    "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
+    "enhanced_repository": "enhansome/enhansome-roslyn",
+    "enhanced_repository_description": null,
+    "title": "Awesome roslyn with stars"
+  }
+}
