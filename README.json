@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T04:13:26Z",
+            "last_commit": "2026-08-13T11:16:54Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20610
+            "stars": 20609
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-04T11:55:47Z",
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2417
+            "stars": 2416
           }
         }
       ],
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:55.641Z",
+    "last_updated": "2026-08-13T14:46:42.544Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
     "enhanced_repository": "enhansome/enhansome-roslyn",
