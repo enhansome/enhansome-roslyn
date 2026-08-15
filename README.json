@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T08:52:42Z",
+            "last_commit": "2026-08-15T03:36:54Z",
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20608
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-19T10:27:27Z",
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3008
+            "stars": 3007
           }
         },
         {
@@ -211,7 +211,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T18:15:27Z",
+            "last_commit": "2026-08-15T12:25:10Z",
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3474
@@ -228,7 +228,7 @@
             "last_commit": "2025-12-31T16:00:59Z",
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2854
+            "stars": 2855
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:38:11Z",
+            "last_commit": "2026-08-15T00:22:42Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 917
+            "stars": 918
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:38:39Z",
+            "last_commit": "2026-08-14T16:33:44Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:41:34.025Z",
+    "last_updated": "2026-08-15T14:01:30.043Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
     "enhanced_repository": "enhansome/enhansome-roslyn",
