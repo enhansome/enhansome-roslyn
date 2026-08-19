@@ -39,7 +39,7 @@ Awesome books to give you a good start with Roslyn.
 
 Awesome online tutorials to help you write your first analyzers, code fixes, and source generators.
 
-* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,614 | 🐛 6,289 | 🌐 C# | 📅 2026-08-19 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
+* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,614 | 🐛 6,290 | 🌐 C# | 📅 2026-08-19 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
 * [C# Source Generators](https://github.com/amis92/csharp-source-generators) ⭐ 2,417 | 🐛 3 | 📅 2026-07-04 - Comprehensive list of additional learning sources, samples, and experimental and productive source generators. A perfect reference once you grasp the basics.
 * [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/) - Series of blog posts that explore the Roslyn compiler API. It introduces the power of Roslyn through small self-contained examples. A perfect tutorial to start with :-)
 * [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - Older but still not outdated, very detailed MSDN article on writing code analyzers.
@@ -104,7 +104,7 @@ Awesome (but mostly experimental at the moment, because .NET 5.0 and C# 9.0 are 
 * [StructPacker](https://github.com/RudolfKurka/StructPacker) ⭐ 83 | 🐛 1 | 🌐 C# | 📅 2022-06-25 - Low-level, lightweight and performance-focused serializer for C# struct types. Auto-generates C# serialization code to achieve peak runtime performance and efficiency.
 * [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) ⭐ 52 | 🐛 1 | 🌐 C# | 📅 2022-11-17 - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 * [DpDtInject](https://github.com/lsoft/DpdtInject) ⭐ 34 | 🐛 16 | 🌐 C# | 📅 2022-06-23 - Proof-of-concept of a dependency injection container that transfers huge piece of resolving logic to the compilation stage. Offers additional compile-time safety and fast runtime resolution.
-* [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) ⚠️ Archived - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,547 | 🐛 872 | 🌐 C# | 📅 2026-08-19 as rendering engine.
+* [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) ⚠️ Archived - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,547 | 🐛 871 | 🌐 C# | 📅 2026-08-19 as rendering engine.
 * [Source Generator Playground](https://sourcegen.dev/) - Online application that lets you experiment with source generators. Perfect for learning and testing your ideas. Write your own source generator or learn from built-in examples and see the generated output.
 
 ## Blog Posts and Articles
