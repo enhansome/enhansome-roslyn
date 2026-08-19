@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-18T13:48:17Z",
+            "last_commit": "2026-08-19T10:22:35Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20610
+            "stars": 20614
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302673564,
             "language": null,
             "last_commit": "2026-07-04T11:55:47Z",
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2416
+            "stars": 2417
           }
         }
       ],
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70060215,
             "language": "C#",
             "last_commit": "2026-07-19T10:27:27Z",
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3007
+            "stars": 3008
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28289776,
             "language": "C#",
             "last_commit": "2025-05-31T00:25:36Z",
             "owner": "KirillOsenkov",
             "repo": "RoslynQuoter",
-            "stars": 1094
+            "stars": 1095
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90398559,
             "language": "C#",
             "last_commit": "2026-03-25T09:02:03Z",
             "owner": "dotnetcore",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114865076,
             "language": "C#",
             "last_commit": "2026-06-23T08:04:33Z",
             "owner": "icsharpcode",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67799709,
             "language": "C#",
             "last_commit": "2020-02-02T08:47:28Z",
             "owner": "antiufo",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59513466,
             "language": "C#",
             "last_commit": "2022-12-07T17:29:20Z",
             "owner": "daveaglick",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47892520,
             "language": "C#",
             "last_commit": "2020-12-11T17:08:05Z",
             "owner": "AArnott",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79376858,
             "language": "C#",
             "last_commit": "2024-05-09T01:28:05Z",
             "owner": "Testura",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68099180,
             "language": "C#",
             "last_commit": "2024-11-18T23:48:33Z",
             "owner": "ashmind",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117250427,
             "language": "C#",
             "last_commit": "2026-04-22T13:23:51Z",
             "owner": "unoplatform",
@@ -184,18 +196,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124649676,
             "language": "C#",
             "last_commit": "2018-05-27T14:45:30Z",
             "owner": "pvginkel",
             "repo": "Microsoft.CodeAnalysis.CSharp.PatternMatching",
             "stars": 31
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Bridge",
-          "description": "C# to JavaScript transpiler. Write modern mobile and web apps in C# and run them anywhere in JavaScript.",
-          "children": []
         }
       ],
       "title": "Open Source Projects"
@@ -210,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57153744,
             "language": "C#",
             "last_commit": "2026-08-16T19:46:36Z",
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3474
+            "stars": 3473
           }
         },
         {
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26768275,
             "language": "C#",
             "last_commit": "2025-12-31T16:00:59Z",
             "owner": "DotNetAnalyzers",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36946704,
             "language": null,
             "last_commit": "2026-08-17T05:06:03Z",
             "owner": "dotnet",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26296658,
             "language": "C#",
             "last_commit": "2024-02-13T22:18:31Z",
             "owner": "code-cracker",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45070187,
             "language": "C#",
             "last_commit": "2026-08-13T00:41:53Z",
             "owner": "SergeyTeplyakov",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 121686349,
             "language": "C#",
             "last_commit": "2022-01-16T08:27:46Z",
             "owner": "cezarypiatek",
@@ -294,8 +307,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-18T00:22:29Z",
+            "last_commit": "2026-08-19T00:22:31Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25113258,
             "language": "C#",
             "last_commit": "2022-05-26T20:34:13Z",
             "owner": "microsoft",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36566138,
             "language": "C#",
             "last_commit": "2021-08-04T21:09:25Z",
             "owner": "icsharpcode",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69706513,
             "language": "C#",
             "last_commit": "2026-04-20T01:23:03Z",
             "owner": "bkoelman",
@@ -350,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34992631,
             "language": "C#",
             "last_commit": "2023-01-21T17:19:56Z",
             "owner": "Vannevelj",
@@ -364,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324767846,
             "language": "C#",
             "last_commit": "2025-04-30T12:21:34Z",
             "owner": "tom-englert",
@@ -384,8 +403,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83729993,
             "language": "C#",
-            "last_commit": "2026-08-17T22:00:29Z",
+            "last_commit": "2026-08-18T21:39:06Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -398,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156765478,
             "language": "C#",
             "last_commit": "2025-09-18T16:16:26Z",
             "owner": "cezarypiatek",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277733754,
             "language": "C#",
             "last_commit": "2025-06-30T11:38:44Z",
             "owner": "YairHalberstadt",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311397865,
             "language": "C#",
             "last_commit": "2026-07-28T13:57:10Z",
             "owner": "diegofrata",
@@ -446,8 +469,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289436314,
             "language": "C#",
-            "last_commit": "2026-08-12T11:01:32Z",
+            "last_commit": "2026-08-19T09:53:40Z",
             "owner": "trampster",
             "repo": "JsonSrcGen",
             "stars": 151
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287993120,
             "language": "C#",
             "last_commit": "2022-06-25T15:09:34Z",
             "owner": "RudolfKurkaMs",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287714637,
             "language": "C#",
             "last_commit": "2022-11-17T09:04:06Z",
             "owner": "martinothamar",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295702441,
             "language": "C#",
             "last_commit": "2022-06-23T04:32:04Z",
             "owner": "lsoft",
@@ -502,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 293846434,
             "language": "C#",
             "last_commit": "2021-05-19T06:07:23Z",
             "owner": "wieslawsoltes",
@@ -511,21 +539,12 @@
         }
       ],
       "title": "Source Generators"
-    },
-    {
-      "description": "Contributions are welcome :-) The goal is to build a categorized community-driven collection of awesome Roslyn resources. Before contributing, please make sure to read the contribution guidelines.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Igor Rončević has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:17:47.482Z",
+    "last_updated": "2026-08-19T12:48:56.758Z",
     "original_repository": "ironcev/awesome-roslyn",
+    "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
     "enhanced_repository": "enhansome/enhansome-roslyn",
     "enhanced_repository_description": null,
