@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-19T14:00:45Z",
+            "last_commit": "2026-08-20T14:01:33Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20614
+            "stars": 20615
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-04T11:55:47Z",
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2417
+            "stars": 2418
           }
         }
       ],
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-19T00:22:31Z",
+            "last_commit": "2026-08-20T00:23:28Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 311397865,
             "language": "C#",
-            "last_commit": "2026-07-28T13:57:10Z",
+            "last_commit": "2026-08-20T14:03:22Z",
             "owner": "diegofrata",
             "repo": "Generator.Equals",
             "stars": 192
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 289436314,
             "language": "C#",
-            "last_commit": "2026-08-19T09:53:40Z",
+            "last_commit": "2026-08-20T09:58:01Z",
             "owner": "trampster",
             "repo": "JsonSrcGen",
             "stars": 151
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:18:50.448Z",
+    "last_updated": "2026-08-20T14:22:01.582Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
