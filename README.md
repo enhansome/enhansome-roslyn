@@ -39,8 +39,8 @@ Awesome books to give you a good start with Roslyn.
 
 Awesome online tutorials to help you write your first analyzers, code fixes, and source generators.
 
-* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,615 | 🐛 6,284 | 🌐 C# | 📅 2026-08-20 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
-* [C# Source Generators](https://github.com/amis92/csharp-source-generators) ⭐ 2,418 | 🐛 3 | 📅 2026-07-04 - Comprehensive list of additional learning sources, samples, and experimental and productive source generators. A perfect reference once you grasp the basics.
+* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,616 | 🐛 6,294 | 🌐 C# | 📅 2026-08-21 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
+* [C# Source Generators](https://github.com/amis92/csharp-source-generators) ⭐ 2,417 | 🐛 3 | 📅 2026-07-04 - Comprehensive list of additional learning sources, samples, and experimental and productive source generators. A perfect reference once you grasp the basics.
 * [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/) - Series of blog posts that explore the Roslyn compiler API. It introduces the power of Roslyn through small self-contained examples. A perfect tutorial to start with :-)
 * [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - Older but still not outdated, very detailed MSDN article on writing code analyzers.
 * [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx) - The sequel to the previous MSDN article. A detailed introduction into code fixes.
@@ -54,14 +54,14 @@ Awesome open source projects built on top of Roslyn.
 * [dotnet-script](https://github.com/filipw/dotnet-script) ⭐ 3,008 | 🐛 127 | 🌐 C# | 📅 2026-07-19 - Runs C# scripts from the .NET CLI, defines NuGet packages inline and edit/debugs them in VS Code.
 * [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) ⭐ 1,095 | 🐛 13 | 🌐 C# | 📅 2025-05-31 - Online tool that for a given C# program generates syntax tree API calls that construct syntax tree of that program.
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) ⭐ 938 | 🐛 31 | 🌐 C# | 📅 2026-03-25 - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
-* [Code Converter](https://github.com/icsharpcode/CodeConverter/) ⭐ 909 | 🐛 110 | 🌐 C# | 📅 2026-06-23 - C# to VB.NET and VB.NET to C# transpiler.
+* [Code Converter](https://github.com/icsharpcode/CodeConverter/) ⭐ 909 | 🐛 108 | 🌐 C# | 📅 2026-08-20 - C# to VB.NET and VB.NET to C# transpiler.
 * [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) ⭐ 714 | 🐛 18 | 🌐 C# | 📅 2020-02-02 - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.
 * [Scripty](https://github.com/daveaglick/Scripty) ⭐ 620 | 🐛 53 | 🌐 C# | 📅 2022-12-07 - Tool to use Roslyn-powered C# scripts for code generation. You can think of it as a scripted alternative to T4 templates.
 * [CodeGeneration.Roslyn](https://github.com/AArnott/CodeGeneration.Roslyn) ⚠️ Archived - Roslyn-based Code Generation during a build with design-time support.
 * [Testura.Code](https://github.com/Testura/Testura.Code) ⭐ 298 | 🐛 19 | 🌐 C# | 📅 2024-05-09 - Wrapper around the Roslyn API used for generation, saving, and compiling C# code. Provides methods and helpers to generate classes, methods, statements, and expressions.
 * [MirrorSharp](https://github.com/ashmind/mirrorsharp) ⭐ 233 | 🐛 40 | 🌐 C# | 📅 2024-11-18 - Online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 * [Uno SourceGenerator](https://github.com/nventive/Uno.SourceGeneration) ⭐ 133 | 🐛 2 | 🌐 C# | 📅 2026-04-22 - C# source code generator based on a project being built, using all of its syntactic and semantic model information.
-* [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2018-05-27 - Intuitive pattern matching for Roslyn syntax trees. Simplifies C# syntax and semantic analysis.
+* [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) ⚠️ Archived - Intuitive pattern matching for Roslyn syntax trees. Simplifies C# syntax and semantic analysis.
 * [Bridge](https://github.com/bridgedotnet/Bridge) - C# to JavaScript transpiler. Write modern mobile and web apps in C# and run them anywhere in JavaScript.
 * [OmniSharp](http://www.omnisharp.net/) - Enables a cross platform .NET development in the editor of your choice. A family of open source projects, each with one goal: To enable a great .NET experience in your editor of choice.
 * [RoslynPad](https://roslynpad.net/) - Cross-platform C# editor. Features code completion, method signature help, quick fixes, and diagnostics.
@@ -73,13 +73,13 @@ Awesome open source projects built on top of Roslyn.
 
 Awesome open source analyzers, code fixes, and refactorings.
 
-* [Roslynator](https://github.com/JosefPihrt/Roslynator) ⭐ 3,473 | 🐛 207 | 🌐 C# | 📅 2026-08-16 - Collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors, and many more.
+* [Roslynator](https://github.com/JosefPihrt/Roslynator) ⭐ 3,474 | 🐛 209 | 🌐 C# | 📅 2026-08-21 - Collection of 190+ analyzers and 190+ refactorings for C#. Covers coding style, code readability and simplification, removing redundancies, fixing compiler errors, and many more.
 * [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) ⭐ 2,854 | 🐛 451 | 🌐 C# | 📅 2025-12-31 - Port of StyleCop rules to Roslyn.
-* [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐ 1,672 | 🐛 1,063 | 📅 2026-08-17 - Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.
+* [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) ⭐ 1,672 | 🐛 1,063 | 📅 2026-08-21 - Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.
 * [Code Cracker](https://github.com/code-cracker/code-cracker) ⭐ 1,148 | 🐛 145 | 🌐 C# | 📅 2024-02-13 - Analyzer library for C# and VB.NET. Offers diagnostics in many categories like performance, coding styles, as well as some basic refactorings.
-* [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) ⭐ 1,124 | 🐛 95 | 🌐 C# | 📅 2026-08-13 - Set of analyzers and code fixes focusing on the correctness and performance of C# programs. Inspired with Google's [Error Prone](https://github.com/google/error-prone) ⭐ 7,224 | 🐛 518 | 🌐 Java | 📅 2026-08-20.
+* [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) ⭐ 1,125 | 🐛 95 | 🌐 C# | 📅 2026-08-13 - Set of analyzers and code fixes focusing on the correctness and performance of C# programs. Inspired with Google's [Error Prone](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 520 | 🌐 Java | 📅 2026-08-20.
 * [Mapping Generator](https://github.com/cezarypiatek/MappingGenerator) ⚠️ Archived - Code fix that generates arbitrary complex object-object mappings. It recognizes out of the box a large number of scenarios where mappings are used. A design-time alternative to [AutoMapper](https://automapper.org/).
-* [SonarC#](https://github.com/SonarSource/sonar-csharp) ⭐ 919 | 🐛 249 | 🌐 C# | 📅 2026-08-20 - Static code analyzer for C# language used as an extension for the SonarQube platform.
+* [SonarC#](https://github.com/SonarSource/sonar-csharp) ⭐ 919 | 🐛 250 | 🌐 C# | 📅 2026-08-21 - Static code analyzer for C# language used as an extension for the SonarQube platform.
 * [Roslyn Clr Heap Allocation Analyzer](https://github.com/Microsoft/RoslynClrHeapAllocationAnalyzer) ⚠️ Archived - C# heap allocation analyzer that can detect explicit and many implicit allocations like boxing, closures, implicit delegate creations, etc.
 * [Refactoring Essentials for Visual Studio](https://github.com/icsharpcode/RefactoringEssentials/) ⚠️ Archived - Refactorings, analyzers and code fixes for C# and VB.NET.
 * [CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer) ⚠️ Archived - Reports diagnostics for C# coding guidelines (<https://csharpcodingguidelines.com/>).
@@ -99,12 +99,12 @@ Awesome libraries and frameworks for testing analyzers, code fixes, and refactor
 Awesome (but mostly experimental at the moment, because .NET 5.0 and C# 9.0 are still in preview) source generators and open source projects that internally use source generators.
 
 * [StrongInject](https://github.com/YairHalberstadt/stronginject) ⭐ 868 | 🐛 20 | 🌐 C# | 📅 2025-06-30 - Compile-time dependency injection container. Compile-time checked, reflection-free and runtime code generation free, thus fast and [app-trimming](https://devblogs.microsoft.com/dotnet/app-trimming-in-net-5/)-friendly.
-* [Generator.Equals](https://github.com/diegofrata/Generator.Equals) ⭐ 192 | 🐛 4 | 🌐 C# | 📅 2026-08-20 - Automatically implements equality and hashing for classes and records. Supports different comparison strategies. Offers similar functionality like IL weaving-based [Equals.Fody](https://github.com/Fody/Equals) ⭐ 111 | 🐛 10 | 🌐 C# | 📅 2026-06-09.
+* [Generator.Equals](https://github.com/diegofrata/Generator.Equals) ⭐ 192 | 🐛 3 | 🌐 C# | 📅 2026-08-20 - Automatically implements equality and hashing for classes and records. Supports different comparison strategies. Offers similar functionality like IL weaving-based [Equals.Fody](https://github.com/Fody/Equals) ⭐ 111 | 🐛 10 | 🌐 C# | 📅 2026-06-09.
 * [JsonSrcGen](https://github.com/trampster/JsonSrcGen) ⭐ 151 | 🐛 1 | 🌐 C# | 📅 2026-08-20 - Reflection-free JSON serializer. Allows extremely fast JSON processing by generating reflection-free serializers at the compile time.
 * [StructPacker](https://github.com/RudolfKurka/StructPacker) ⭐ 83 | 🐛 1 | 🌐 C# | 📅 2022-06-25 - Low-level, lightweight and performance-focused serializer for C# struct types. Auto-generates C# serialization code to achieve peak runtime performance and efficiency.
 * [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) ⭐ 52 | 🐛 1 | 🌐 C# | 📅 2022-11-17 - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 * [DpDtInject](https://github.com/lsoft/DpdtInject) ⭐ 34 | 🐛 16 | 🌐 C# | 📅 2022-06-23 - Proof-of-concept of a dependency injection container that transfers huge piece of resolving logic to the compilation stage. Offers additional compile-time safety and fast runtime resolution.
-* [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) ⚠️ Archived - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,547 | 🐛 866 | 🌐 C# | 📅 2026-08-20 as rendering engine.
+* [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) ⚠️ Archived - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp](https://github.com/mono/SkiaSharp) ⭐ 5,549 | 🐛 859 | 🌐 C# | 📅 2026-08-21 as rendering engine.
 * [Source Generator Playground](https://sourcegen.dev/) - Online application that lets you experiment with source generators. Perfect for learning and testing your ideas. Write your own source generator or learn from built-in examples and see the generated output.
 
 ## Blog Posts and Articles
@@ -135,4 +135,4 @@ To the extent possible under law, Igor Rončević has waived all copyright and r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

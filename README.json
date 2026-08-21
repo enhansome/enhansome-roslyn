@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-20T14:01:33Z",
+            "last_commit": "2026-08-21T13:43:04Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20615
+            "stars": 20616
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-04T11:55:47Z",
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2418
+            "stars": 2417
           }
         }
       ],
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 114865076,
             "language": "C#",
-            "last_commit": "2026-06-23T08:04:33Z",
+            "last_commit": "2026-08-20T17:26:52Z",
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 909
@@ -195,7 +195,7 @@
           "description": "Intuitive pattern matching for Roslyn syntax trees. Simplifies C# syntax and semantic analysis.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 124649676,
             "language": "C#",
             "last_commit": "2018-05-27T14:45:30Z",
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 57153744,
             "language": "C#",
-            "last_commit": "2026-08-16T19:46:36Z",
+            "last_commit": "2026-08-21T13:49:16Z",
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3473
+            "stars": 3474
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 36946704,
             "language": null,
-            "last_commit": "2026-08-17T05:06:03Z",
+            "last_commit": "2026-08-21T00:10:53Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1672
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-13T00:41:53Z",
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1124
+            "stars": 1125
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-20T00:23:28Z",
+            "last_commit": "2026-08-21T10:45:24Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 311397865,
             "language": "C#",
-            "last_commit": "2026-08-20T14:03:22Z",
+            "last_commit": "2026-08-20T14:48:01Z",
             "owner": "diegofrata",
             "repo": "Generator.Equals",
             "stars": 192
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:01.582Z",
+    "last_updated": "2026-08-21T14:19:57.617Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
