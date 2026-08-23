@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-22T04:04:30Z",
+            "last_commit": "2026-08-23T08:27:56Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20618
+            "stars": 20619
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-20T14:48:01Z",
             "owner": "diegofrata",
             "repo": "Generator.Equals",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:01:06.824Z",
+    "last_updated": "2026-08-23T14:03:04.461Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
