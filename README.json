@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-23T08:27:56Z",
+            "last_commit": "2026-08-24T13:38:17Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20619
+            "stars": 20621
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-21T20:18:02Z",
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3474
+            "stars": 3475
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 36946704,
             "language": null,
-            "last_commit": "2026-08-21T00:10:53Z",
+            "last_commit": "2026-08-24T05:07:08Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1672
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-22T00:22:54Z",
+            "last_commit": "2026-08-24T13:56:50Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 83729993,
             "language": "C#",
-            "last_commit": "2026-08-18T21:39:06Z",
+            "last_commit": "2026-08-24T05:01:44Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:03:04.461Z",
+    "last_updated": "2026-08-24T14:21:27.852Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
