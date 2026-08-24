@@ -39,7 +39,7 @@ Awesome books to give you a good start with Roslyn.
 
 Awesome online tutorials to help you write your first analyzers, code fixes, and source generators.
 
-* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,621 | 🐛 6,297 | 🌐 C# | 📅 2026-08-24 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
+* [How To Write a C# Analyzer and Code Fix](https://github.com/dotnet/roslyn/blob/master/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md) ⭐ 20,621 | 🐛 6,298 | 🌐 C# | 📅 2026-08-24 - The mother of all Roslyn tutorials :-) A realistic step-by-step introduction to syntax and semantic analysis as well as the syntax transformation.
 * [C# Source Generators](https://github.com/amis92/csharp-source-generators) ⭐ 2,417 | 🐛 3 | 📅 2026-07-04 - Comprehensive list of additional learning sources, samples, and experimental and productive source generators. A perfect reference once you grasp the basics.
 * [Learn Roslyn Now](https://joshvarty.com/learn-roslyn-now/) - Series of blog posts that explore the Roslyn compiler API. It introduces the power of Roslyn through small self-contained examples. A perfect tutorial to start with :-)
 * [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) - Older but still not outdated, very detailed MSDN article on writing code analyzers.
