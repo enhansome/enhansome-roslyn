@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-25T13:38:14Z",
+            "last_commit": "2026-08-26T08:32:43Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20623
+            "stars": 20627
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-25T09:24:38Z",
+            "last_commit": "2026-08-26T08:29:22Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:29:20.027Z",
+    "last_updated": "2026-08-26T14:28:57.317Z",
     "original_repository": "ironcev/awesome-roslyn",
     "original_repository_id": 129465978,
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
