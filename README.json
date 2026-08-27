@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-26T08:32:43Z",
+            "last_commit": "2026-08-27T08:08:41Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20627
+            "stars": 20629
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2025-12-31T16:00:59Z",
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2854
+            "stars": 2855
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 36946704,
             "language": null,
-            "last_commit": "2026-08-24T05:07:08Z",
+            "last_commit": "2026-08-26T22:59:15Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1672
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-26T08:29:22Z",
+            "last_commit": "2026-08-27T01:56:30Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
@@ -402,10 +402,10 @@
           "description": "Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of Roslyn SDK.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 83729993,
             "language": "C#",
-            "last_commit": "2026-08-24T05:01:44Z",
+            "last_commit": "2026-08-26T18:28:52Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -542,9 +542,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:28:57.317Z",
-    "original_repository": "ironcev/awesome-roslyn",
-    "original_repository_id": 129465978,
+    "last_updated": "2026-08-27T12:06:37.990Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 129465978,
+      "language": null,
+      "last_commit": "2024-01-16T06:01:24Z",
+      "owner": "ironcev",
+      "repo": "awesome-roslyn",
+      "stars": 735
+    },
     "original_repository_sha": "7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37",
     "enhanced_repository": "enhansome/enhansome-roslyn",
     "enhanced_repository_description": null,
