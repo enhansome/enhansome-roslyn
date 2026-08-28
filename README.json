@@ -12,11 +12,12 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-27T22:54:07Z",
+            "last_commit": "2026-08-28T22:30:30Z",
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20631
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-04T11:55:47Z",
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2417
-          }
+            "stars": 2418
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         }
       ],
       "title": "Tutorials"
@@ -51,8 +53,9 @@
             "last_commit": "2026-07-19T10:27:27Z",
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3008
-          }
+            "stars": 3007
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2025-05-31T00:25:36Z",
             "owner": "KirillOsenkov",
             "repo": "RoslynQuoter",
-            "stars": 1095
-          }
+            "stars": 1096
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "dotnetcore",
             "repo": "FlubuCore",
             "stars": 938
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 910
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "antiufo",
             "repo": "roslyn-linq-rewrite",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "daveaglick",
             "repo": "Scripty",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "AArnott",
             "repo": "CodeGeneration.Roslyn",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Testura",
             "repo": "Testura.Code",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ashmind",
             "repo": "mirrorsharp",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "unoplatform",
             "repo": "Uno.SourceGeneration",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "pvginkel",
             "repo": "Microsoft.CodeAnalysis.CSharp.PatternMatching",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         }
       ],
       "title": "Open Source Projects"
@@ -223,7 +236,8 @@
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3475
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2855
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 36946704,
             "language": null,
-            "last_commit": "2026-08-27T16:27:16Z",
+            "last_commit": "2026-08-28T13:23:02Z",
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1672
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "code-cracker",
             "repo": "code-cracker",
             "stars": 1147
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
             "stars": 1126
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "cezarypiatek",
             "repo": "MappingGenerator",
             "stars": 1023
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 5582516,
             "language": "C#",
-            "last_commit": "2026-08-27T01:56:30Z",
+            "last_commit": "2026-08-28T12:25:33Z",
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 919
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "microsoft",
             "repo": "RoslynClrHeapAllocationAnalyzer",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "icsharpcode",
             "repo": "RefactoringEssentials",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "bkoelman",
             "repo": "CSharpGuidelinesAnalyzer",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "Vannevelj",
             "repo": "VSDiagnostics",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         }
       ],
       "title": "Open Source Analyzers, Code Fixes, and Refactorings"
@@ -409,7 +434,8 @@
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "cezarypiatek",
             "repo": "RoslynTestKit",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         }
       ],
       "title": "Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings"
@@ -445,7 +472,8 @@
             "owner": "YairHalberstadt",
             "repo": "stronginject",
             "stars": 868
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -456,11 +484,12 @@
             "archived": false,
             "id": 311397865,
             "language": "C#",
-            "last_commit": "2026-08-20T14:48:01Z",
+            "last_commit": "2026-08-28T13:20:50Z",
             "owner": "diegofrata",
             "repo": "Generator.Equals",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "trampster",
             "repo": "JsonSrcGen",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "RudolfKurkaMs",
             "repo": "StructPacker",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "martinothamar",
             "repo": "WrapperValueObject",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "lsoft",
             "repo": "DpdtInject",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         },
         {
           "node_type": "item",
@@ -535,14 +568,15 @@
             "owner": "wieslawsoltes",
             "repo": "SourceGenerators",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:26.351Z"
         }
       ],
       "title": "Source Generators"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:07.064Z",
+    "last_updated": "2026-08-28T23:13:26.351Z",
     "original_repository_info": {
       "archived": false,
       "id": 129465978,
