@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:09:06Z",
-            "open_issues": 6295,
+            "last_commit": "2026-08-29T16:27:26Z",
+            "open_issues": 6296,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20631,
+            "stars": 20632,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -385,10 +385,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2025-12-31T16:00:59Z",
-            "open_issues": 452,
+            "open_issues": 453,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2855,
+            "stars": 2854,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -742,7 +742,7 @@
             "open_issues": 2,
             "owner": "diegofrata",
             "repo": "Generator.Equals",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:53.266Z",
+    "last_updated": "2026-08-29T17:24:28.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
