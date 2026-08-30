@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:27:26Z",
-            "open_issues": 6296,
+            "last_commit": "2026-08-30T02:30:00Z",
+            "open_issues": 6297,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20632,
+            "stars": 20631,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -46,7 +46,7 @@
             "open_issues": 3,
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2418,
+            "stars": 2417,
             "topics": [
               "awesome-list",
               "csharp",
@@ -128,7 +128,7 @@
             "open_issues": 31,
             "owner": "dotnetcore",
             "repo": "FlubuCore",
-            "stars": 938,
+            "stars": 937,
             "topics": [
               "build",
               "build-automation",
@@ -362,7 +362,7 @@
             "open_issues": 209,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3475,
+            "stars": 3474,
             "topics": [
               "csharp",
               "dotnet",
@@ -388,7 +388,7 @@
             "open_issues": 453,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2854,
+            "stars": 2853,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -508,7 +508,7 @@
             "open_issues": 251,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 919,
+            "stars": 918,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -584,7 +584,7 @@
             "open_issues": 4,
             "owner": "bkoelman",
             "repo": "CSharpGuidelinesAnalyzer",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "analyzer",
               "c-sharp",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:24:28.113Z",
+    "last_updated": "2026-08-30T17:47:26.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
