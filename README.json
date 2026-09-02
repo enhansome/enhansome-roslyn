@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T16:54:34Z",
+            "last_commit": "2026-09-02T17:21:03Z",
             "open_issues": 6302,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20636,
+            "stars": 20639,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -43,7 +43,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-04T11:55:47Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "amis92",
             "repo": "csharp-source-generators",
             "stars": 2417,
@@ -359,7 +359,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T20:18:02Z",
-            "open_issues": 209,
+            "open_issues": 212,
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3477,
@@ -432,7 +432,7 @@
             "open_issues": 145,
             "owner": "code-cracker",
             "repo": "code-cracker",
-            "stars": 1146,
+            "stars": 1145,
             "topics": [
               "hacktoberfest"
             ]
@@ -504,11 +504,11 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T13:41:43Z",
-            "open_issues": 249,
+            "last_commit": "2026-09-02T00:52:59Z",
+            "open_issues": 248,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 917,
+            "stars": 918,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -626,7 +626,7 @@
             "id": 324767846,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2025-04-30T12:21:34Z",
+            "last_commit": "2026-09-02T13:47:04Z",
             "open_issues": 0,
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:28:03.452Z",
+    "last_updated": "2026-09-02T17:25:01.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
