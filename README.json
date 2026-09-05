@@ -15,7 +15,7 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:25:42Z",
+            "last_commit": "2026-09-05T04:31:26Z",
             "open_issues": 6292,
             "owner": "dotnet",
             "repo": "roslyn",
@@ -76,7 +76,7 @@
             "id": 70060215,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:18:17Z",
+            "last_commit": "2026-09-05T06:29:25Z",
             "open_issues": 128,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
@@ -455,7 +455,7 @@
             "open_issues": 96,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1127,
+            "stars": 1128,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -476,7 +476,7 @@
             "open_issues": 10,
             "owner": "cezarypiatek",
             "repo": "MappingGenerator",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "automapper",
               "c-sharp",
@@ -504,7 +504,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T00:51:05Z",
+            "last_commit": "2026-09-05T00:50:32Z",
             "open_issues": 249,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -713,7 +713,7 @@
             "open_issues": 20,
             "owner": "YairHalberstadt",
             "repo": "stronginject",
-            "stars": 868,
+            "stars": 867,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:08:35.082Z",
+    "last_updated": "2026-09-05T16:17:32.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
