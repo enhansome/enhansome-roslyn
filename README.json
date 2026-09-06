@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T04:31:26Z",
-            "open_issues": 6292,
+            "last_commit": "2026-09-06T05:08:00Z",
+            "open_issues": 6296,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20645,
+            "stars": 20646,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -107,7 +107,7 @@
             "open_issues": 13,
             "owner": "KirillOsenkov",
             "repo": "RoslynQuoter",
-            "stars": 1098,
+            "stars": 1103,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -451,8 +451,8 @@
             "id": 45070187,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-13T00:41:53Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-06T01:45:09Z",
+            "open_issues": 97,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
             "stars": 1128,
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:17:32.495Z",
+    "last_updated": "2026-09-06T16:27:41.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
