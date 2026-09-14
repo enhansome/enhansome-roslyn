@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-13T08:01:31Z",
-            "open_issues": 6292,
+            "last_commit": "2026-09-14T17:55:35Z",
+            "open_issues": 6298,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20660,
+            "stars": 20662,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -80,7 +80,7 @@
             "open_issues": 128,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3008,
+            "stars": 3007,
             "topics": [
               "csharp-script",
               "csi",
@@ -405,7 +405,7 @@
             "id": 36946704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T05:05:50Z",
+            "last_commit": "2026-09-14T05:07:29Z",
             "open_issues": 1058,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:04:14.502Z",
+    "last_updated": "2026-09-14T18:53:44.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -912,7 +912,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-01-16T06:01:24Z",
-      "open_issues": 15,
+      "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
       "stars": 735,
