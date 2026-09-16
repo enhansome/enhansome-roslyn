@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:41:10Z",
+            "last_commit": "2026-09-16T17:05:44Z",
             "open_issues": 6663,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20665,
+            "stars": 20667,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -170,7 +170,7 @@
             "open_issues": 114,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
-            "stars": 912,
+            "stars": 913,
             "topics": [
               "c-sharp",
               "code-converter",
@@ -362,7 +362,7 @@
             "open_issues": 213,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3479,
+            "stars": 3480,
             "topics": [
               "csharp",
               "dotnet",
@@ -455,7 +455,7 @@
             "open_issues": 98,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1128,
+            "stars": 1129,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -504,7 +504,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T15:25:35Z",
+            "last_commit": "2026-09-16T00:51:46Z",
             "open_issues": 249,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:46:29.347Z",
+    "last_updated": "2026-09-16T17:45:57.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
