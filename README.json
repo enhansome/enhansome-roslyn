@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-19T05:31:29Z",
-            "open_issues": 6660,
+            "last_commit": "2026-09-20T04:41:39Z",
+            "open_issues": 6661,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20677,
@@ -432,7 +432,7 @@
             "open_issues": 145,
             "owner": "code-cracker",
             "repo": "code-cracker",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "hacktoberfest"
             ]
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:49:37.746Z",
+    "last_updated": "2026-09-20T17:01:56.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
