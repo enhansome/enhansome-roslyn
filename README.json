@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T17:06:48Z",
-            "open_issues": 6683,
+            "last_commit": "2026-09-25T15:25:44Z",
+            "open_issues": 6688,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20688,
@@ -362,7 +362,7 @@
             "open_issues": 213,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3482,
+            "stars": 3481,
             "topics": [
               "csharp",
               "dotnet",
@@ -388,7 +388,7 @@
             "open_issues": 457,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2853,
+            "stars": 2852,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -504,7 +504,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T12:16:51Z",
+            "last_commit": "2026-09-25T00:51:31Z",
             "open_issues": 251,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:58:53.206Z",
+    "last_updated": "2026-09-25T18:05:59.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
