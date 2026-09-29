@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:50:28Z",
+            "last_commit": "2026-09-29T18:43:37Z",
             "open_issues": 6694,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20689,
+            "stars": 20692,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -504,7 +504,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T12:32:11Z",
+            "last_commit": "2026-09-29T00:56:40Z",
             "open_issues": 251,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:15:17.782Z",
+    "last_updated": "2026-09-29T18:53:59.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
