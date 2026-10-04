@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-03T03:19:27Z",
-            "open_issues": 6700,
+            "open_issues": 6702,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20701,
+            "stars": 20702,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -358,8 +358,8 @@
             "id": 57153744,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T07:13:22Z",
-            "open_issues": 215,
+            "last_commit": "2026-10-04T13:31:31Z",
+            "open_issues": 207,
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3483,
@@ -505,10 +505,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T00:52:49Z",
-            "open_issues": 255,
+            "open_issues": 259,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 920,
+            "stars": 919,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -538,7 +538,7 @@
             "open_issues": 32,
             "owner": "microsoft",
             "repo": "RoslynClrHeapAllocationAnalyzer",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "allocations",
               "compiler",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:38:31.678Z",
+    "last_updated": "2026-10-04T17:51:43.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
