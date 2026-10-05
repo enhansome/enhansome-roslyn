@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:19:27Z",
-            "open_issues": 6702,
+            "last_commit": "2026-10-05T21:22:56Z",
+            "open_issues": 6693,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20702,
+            "stars": 20707,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -80,7 +80,7 @@
             "open_issues": 128,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "csharp-script",
               "csi",
@@ -358,7 +358,7 @@
             "id": 57153744,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T13:31:31Z",
+            "last_commit": "2026-10-04T19:28:59Z",
             "open_issues": 207,
             "owner": "dotnet",
             "repo": "roslynator",
@@ -508,7 +508,7 @@
             "open_issues": 259,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 919,
+            "stars": 920,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:51:43.335Z",
+    "last_updated": "2026-10-05T21:27:56.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
