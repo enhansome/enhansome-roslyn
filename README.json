@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T03:48:37Z",
+            "last_commit": "2026-10-06T14:28:35Z",
             "open_issues": 6694,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20707,
+            "stars": 20706,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2416,
+            "stars": 2414,
             "topics": [
               "awesome-list",
               "csharp",
@@ -128,7 +128,7 @@
             "open_issues": 32,
             "owner": "dotnetcore",
             "repo": "FlubuCore",
-            "stars": 939,
+            "stars": 938,
             "topics": [
               "build",
               "build-automation",
@@ -903,7 +903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:56.339Z",
+    "last_updated": "2026-10-06T19:07:24.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -915,7 +915,7 @@
       "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
-      "stars": 735,
+      "stars": 734,
       "topics": [
         "awesome",
         "awesome-list",
