@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-09T18:18:04Z",
-            "open_issues": 6688,
+            "last_commit": "2026-10-10T07:44:40Z",
+            "open_issues": 6698,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20715,
+            "stars": 20717,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -80,7 +80,7 @@
             "open_issues": 128,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3011,
+            "stars": 3012,
             "topics": [
               "csharp-script",
               "csi",
@@ -107,7 +107,7 @@
             "open_issues": 13,
             "owner": "KirillOsenkov",
             "repo": "RoslynQuoter",
-            "stars": 1106,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -380,16 +380,19 @@
           "repo_info": {
             "archived": false,
             "description": "An implementation of StyleCop rules using the .NET Compiler Platform",
-            "homepage": null,
+            "homepage": "https://dotnetanalyzers.github.io/StyleCopAnalyzers/",
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-09T18:21:16Z",
-            "open_issues": 270,
+            "last_commit": "2026-10-10T16:35:13Z",
+            "open_issues": 259,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2856,
-            "topics": []
+            "topics": [
+              "csharp",
+              "linting"
+            ]
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
         },
@@ -504,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T00:59:13Z",
+            "last_commit": "2026-10-10T00:59:32Z",
             "open_issues": 259,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -903,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:02:27.098Z",
+    "last_updated": "2026-10-10T18:03:32.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
