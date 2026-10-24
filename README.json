@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T11:01:49Z",
-            "open_issues": 6738,
+            "last_commit": "2026-10-24T02:02:43Z",
+            "open_issues": 6744,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20751,
@@ -43,7 +43,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T22:01:01Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "amis92",
             "repo": "csharp-source-generators",
             "stars": 2415,
@@ -80,7 +80,7 @@
             "open_issues": 129,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "csharp-script",
               "csi",
@@ -359,10 +359,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-04T19:28:59Z",
-            "open_issues": 211,
+            "open_issues": 212,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3488,
+            "stars": 3489,
             "topics": [
               "csharp",
               "dotnet",
@@ -388,7 +388,7 @@
             "open_issues": 50,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2859,
+            "stars": 2860,
             "topics": [
               "csharp",
               "linting"
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T00:51:25Z",
+            "last_commit": "2026-10-24T00:47:54Z",
             "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:58:01.763Z",
+    "last_updated": "2026-10-24T17:01:22.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
