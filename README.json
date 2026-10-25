@@ -19,7 +19,7 @@
             "open_issues": 6744,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20751,
+            "stars": 20755,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -167,10 +167,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-22T19:56:25Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
-            "stars": 917,
+            "stars": 916,
             "topics": [
               "c-sharp",
               "code-converter",
@@ -362,7 +362,7 @@
             "open_issues": 212,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3489,
+            "stars": 3491,
             "topics": [
               "csharp",
               "dotnet",
@@ -384,7 +384,7 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-21T21:59:24Z",
+            "last_commit": "2026-10-25T16:48:10Z",
             "open_issues": 50,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
@@ -408,7 +408,7 @@
             "id": 36946704,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-12T06:15:05Z",
+            "last_commit": "2026-10-25T08:16:08Z",
             "open_issues": 1058,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
@@ -435,7 +435,7 @@
             "open_issues": 145,
             "owner": "code-cracker",
             "repo": "code-cracker",
-            "stars": 1146,
+            "stars": 1145,
             "topics": [
               "hacktoberfest"
             ]
@@ -479,7 +479,7 @@
             "open_issues": 10,
             "owner": "cezarypiatek",
             "repo": "MappingGenerator",
-            "stars": 1022,
+            "stars": 1020,
             "topics": [
               "automapper",
               "c-sharp",
@@ -566,7 +566,7 @@
             "open_issues": 132,
             "owner": "icsharpcode",
             "repo": "RefactoringEssentials",
-            "stars": 631,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -629,12 +629,16 @@
             "id": 324767846,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T10:42:58Z",
+            "last_commit": "2026-10-25T16:47:43Z",
             "open_issues": 0,
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
-            "stars": 61,
-            "topics": []
+            "stars": 60,
+            "topics": [
+              "agent-skills",
+              "mcp-server",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
         }
@@ -906,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:01:22.338Z",
+    "last_updated": "2026-10-25T17:14:39.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
