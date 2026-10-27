@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T17:49:10Z",
-            "open_issues": 6745,
+            "last_commit": "2026-10-27T14:10:18Z",
+            "open_issues": 6747,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20755,
+            "stars": 20757,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -166,8 +166,8 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-22T19:56:25Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-27T00:02:58Z",
+            "open_issues": 102,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 916,
@@ -362,7 +362,7 @@
             "open_issues": 221,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3492,
+            "stars": 3491,
             "topics": [
               "csharp",
               "dotnet",
@@ -412,7 +412,7 @@
             "open_issues": 1058,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1672,
+            "stars": 1673,
             "topics": [
               "hacktoberfest"
             ]
@@ -507,8 +507,8 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T00:47:54Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-27T00:49:55Z",
+            "open_issues": 254,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 921,
@@ -629,7 +629,7 @@
             "id": 324767846,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T15:23:28Z",
+            "last_commit": "2026-10-27T13:13:04Z",
             "open_issues": 0,
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:35:28.548Z",
+    "last_updated": "2026-10-27T19:00:00.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
