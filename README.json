@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-27T14:10:18Z",
-            "open_issues": 6747,
+            "last_commit": "2026-10-28T17:42:10Z",
+            "open_issues": 6746,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20757,
+            "stars": 20760,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -362,7 +362,7 @@
             "open_issues": 221,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3491,
+            "stars": 3490,
             "topics": [
               "csharp",
               "dotnet",
@@ -384,7 +384,7 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:46:08Z",
+            "last_commit": "2026-10-28T13:45:44Z",
             "open_issues": 49,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
@@ -458,7 +458,7 @@
             "open_issues": 99,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1132,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -507,8 +507,8 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T00:49:55Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-28T00:38:50Z",
+            "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 921,
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:00:00.356Z",
+    "last_updated": "2026-10-28T19:08:16.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
