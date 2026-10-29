@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T17:42:10Z",
-            "open_issues": 6746,
+            "last_commit": "2026-10-29T18:53:16Z",
+            "open_issues": 6749,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20760,
+            "stars": 20759,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -385,7 +385,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-28T13:45:44Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2861,
@@ -458,7 +458,7 @@
             "open_issues": 99,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -507,11 +507,11 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T00:38:50Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-29T00:38:30Z",
+            "open_issues": 260,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -633,7 +633,7 @@
             "open_issues": 0,
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "agent-skills",
               "mcp-server",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:08:16.172Z",
+    "last_updated": "2026-10-29T19:16:48.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
