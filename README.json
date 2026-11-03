@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-02T22:25:41Z",
-            "open_issues": 6717,
+            "last_commit": "2026-11-03T18:14:18Z",
+            "open_issues": 6712,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20759,
+            "stars": 20761,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -166,8 +166,8 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T16:04:52Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-02T22:49:19Z",
+            "open_issues": 107,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 917,
@@ -199,7 +199,7 @@
             "open_issues": 18,
             "owner": "antiufo",
             "repo": "roslyn-linq-rewrite",
-            "stars": 714,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -359,7 +359,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T09:50:14Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3498,
@@ -384,11 +384,11 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:39:40Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-03T20:13:02Z",
+            "open_issues": 49,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2865,
+            "stars": 2866,
             "topics": [
               "csharp",
               "linting"
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T00:32:00Z",
+            "last_commit": "2026-11-03T00:32:30Z",
             "open_issues": 260,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:28:49.624Z",
+    "last_updated": "2026-11-03T20:17:46.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
