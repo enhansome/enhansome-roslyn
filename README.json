@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-03T18:14:18Z",
-            "open_issues": 6712,
+            "last_commit": "2026-11-04T20:05:43Z",
+            "open_issues": 6722,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20761,
+            "stars": 20763,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -384,11 +384,11 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-03T20:13:02Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-04T16:40:17Z",
+            "open_issues": 48,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2866,
+            "stars": 2869,
             "topics": [
               "csharp",
               "linting"
@@ -409,7 +409,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-02T05:06:59Z",
-            "open_issues": 1059,
+            "open_issues": 1060,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
             "stars": 1673,
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T00:32:30Z",
+            "last_commit": "2026-11-04T00:31:26Z",
             "open_issues": 260,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:17:46.236Z",
+    "last_updated": "2026-11-04T20:33:41.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
