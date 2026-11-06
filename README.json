@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:41:02Z",
-            "open_issues": 6726,
+            "last_commit": "2026-11-06T02:14:33Z",
+            "open_issues": 6732,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20766,
+            "stars": 20765,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -80,7 +80,7 @@
             "open_issues": 129,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "csharp-script",
               "csi",
@@ -384,8 +384,8 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-05T17:50:25Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-06T19:02:33Z",
+            "open_issues": 49,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2870,
@@ -458,7 +458,7 @@
             "open_issues": 99,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1134,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -507,8 +507,8 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T13:43:35Z",
-            "open_issues": 260,
+            "last_commit": "2026-11-06T00:33:24Z",
+            "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 923,
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:49:58.964Z",
+    "last_updated": "2026-11-06T20:06:11.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
