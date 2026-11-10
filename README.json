@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-09T23:04:37Z",
-            "open_issues": 6736,
+            "last_commit": "2026-11-10T19:11:56Z",
+            "open_issues": 6740,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20767,
+            "stars": 20772,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2416,
+            "stars": 2418,
             "topics": [
               "awesome-list",
               "csharp",
@@ -80,7 +80,7 @@
             "open_issues": 129,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "csharp-script",
               "csi",
@@ -128,7 +128,7 @@
             "open_issues": 32,
             "owner": "dotnetcore",
             "repo": "FlubuCore",
-            "stars": 937,
+            "stars": 939,
             "topics": [
               "build",
               "build-automation",
@@ -166,8 +166,8 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-09T23:07:25Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-10T17:32:54Z",
+            "open_issues": 78,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 917,
@@ -220,7 +220,7 @@
             "open_issues": 53,
             "owner": "daveaglick",
             "repo": "Scripty",
-            "stars": 618,
+            "stars": 619,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -359,10 +359,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T09:50:14Z",
-            "open_issues": 215,
+            "open_issues": 216,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3499,
+            "stars": 3500,
             "topics": [
               "csharp",
               "dotnet",
@@ -388,7 +388,7 @@
             "open_issues": 49,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2870,
+            "stars": 2869,
             "topics": [
               "csharp",
               "linting"
@@ -412,7 +412,7 @@
             "open_issues": 1060,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1673,
+            "stars": 1672,
             "topics": [
               "hacktoberfest"
             ]
@@ -458,7 +458,7 @@
             "open_issues": 99,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1135,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T00:30:20Z",
+            "last_commit": "2026-11-10T14:43:28Z",
             "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -629,7 +629,7 @@
             "id": 324767846,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:13:04Z",
+            "last_commit": "2026-11-10T13:58:51Z",
             "open_issues": 0,
             "owner": "tom-englert",
             "repo": "Nullable.Extended",
@@ -720,7 +720,7 @@
             "open_issues": 20,
             "owner": "YairHalberstadt",
             "repo": "stronginject",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:10:18.715Z",
+    "last_updated": "2026-11-10T20:37:34.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
