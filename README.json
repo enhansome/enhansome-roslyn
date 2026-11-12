@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T19:11:56Z",
-            "open_issues": 6740,
+            "last_commit": "2026-11-12T21:00:11Z",
+            "open_issues": 6775,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20772,
+            "stars": 20778,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -166,8 +166,8 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:32:54Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-12T19:57:46Z",
+            "open_issues": 74,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 917,
@@ -241,7 +241,7 @@
             "open_issues": 19,
             "owner": "AArnott",
             "repo": "CodeGeneration.Roslyn",
-            "stars": 410,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -287,7 +287,7 @@
             "open_issues": 40,
             "owner": "ashmind",
             "repo": "mirrorsharp",
-            "stars": 232,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -359,7 +359,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T09:50:14Z",
-            "open_issues": 216,
+            "open_issues": 218,
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3500,
@@ -384,11 +384,11 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-09T14:25:51Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-12T04:40:42Z",
+            "open_issues": 48,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2869,
+            "stars": 2871,
             "topics": [
               "csharp",
               "linting"
@@ -402,7 +402,7 @@
           "description": "Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": null,
             "homepage": null,
             "id": 36946704,
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T14:43:28Z",
+            "last_commit": "2026-11-12T00:33:42Z",
             "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -749,7 +749,7 @@
             "open_issues": 2,
             "owner": "diegofrata",
             "repo": "Generator.Equals",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "csharp",
               "csharp-sourcegenerator",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:37:34.650Z",
+    "last_updated": "2026-11-12T21:08:11.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -922,7 +922,7 @@
       "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
-      "stars": 736,
+      "stars": 735,
       "topics": [
         "awesome",
         "awesome-list",
