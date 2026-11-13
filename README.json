@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-12T21:00:11Z",
-            "open_issues": 6775,
+            "last_commit": "2026-11-13T17:36:35Z",
+            "open_issues": 6778,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20778,
+            "stars": 20777,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -80,7 +80,7 @@
             "open_issues": 129,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3011,
+            "stars": 3012,
             "topics": [
               "csharp-script",
               "csi",
@@ -128,7 +128,7 @@
             "open_issues": 32,
             "owner": "dotnetcore",
             "repo": "FlubuCore",
-            "stars": 939,
+            "stars": 938,
             "topics": [
               "build",
               "build-automation",
@@ -507,11 +507,11 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T00:33:42Z",
+            "last_commit": "2026-11-13T12:02:43Z",
             "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "c-sharp",
               "code-quality",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:08:11.084Z",
+    "last_updated": "2026-11-13T20:39:50.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
