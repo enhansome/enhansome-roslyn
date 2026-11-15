@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-14T06:33:48Z",
-            "open_issues": 6777,
+            "last_commit": "2026-11-15T14:28:39Z",
+            "open_issues": 6782,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20778,
+            "stars": 20779,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -166,11 +166,11 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-12T19:57:46Z",
+            "last_commit": "2026-11-15T00:13:13Z",
             "open_issues": 74,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
-            "stars": 917,
+            "stars": 916,
             "topics": [
               "c-sharp",
               "code-converter",
@@ -359,10 +359,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T09:50:14Z",
-            "open_issues": 218,
+            "open_issues": 222,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3500,
+            "stars": 3501,
             "topics": [
               "csharp",
               "dotnet",
@@ -384,8 +384,8 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-14T14:39:53Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-14T20:21:17Z",
+            "open_issues": 50,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2871,
@@ -412,7 +412,7 @@
             "open_issues": 1060,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1672,
+            "stars": 1671,
             "topics": [
               "hacktoberfest"
             ]
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:08.667Z",
+    "last_updated": "2026-11-15T19:28:38.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
