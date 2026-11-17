@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T22:56:54Z",
-            "open_issues": 6789,
+            "last_commit": "2026-11-17T20:49:26Z",
+            "open_issues": 6799,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20782,
+            "stars": 20785,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -167,7 +167,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-11-15T00:13:13Z",
-            "open_issues": 74,
+            "open_issues": 79,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 917,
@@ -384,11 +384,11 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T14:02:34Z",
+            "last_commit": "2026-11-17T19:00:10Z",
             "open_issues": 48,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2871,
+            "stars": 2873,
             "topics": [
               "csharp",
               "linting"
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T00:32:02Z",
+            "last_commit": "2026-11-17T00:33:49Z",
             "open_issues": 261,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:03:11.640Z",
+    "last_updated": "2026-11-17T21:55:18.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -922,7 +922,7 @@
       "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
-      "stars": 735,
+      "stars": 734,
       "topics": [
         "awesome",
         "awesome-list",
