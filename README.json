@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-18T21:11:10Z",
-            "open_issues": 6797,
+            "last_commit": "2026-11-19T21:23:31Z",
+            "open_issues": 6798,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20787,
@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "amis92",
             "repo": "csharp-source-generators",
-            "stars": 2418,
+            "stars": 2419,
             "topics": [
               "awesome-list",
               "csharp",
@@ -80,7 +80,7 @@
             "open_issues": 129,
             "owner": "dotnet-script",
             "repo": "dotnet-script",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "csharp-script",
               "csi",
@@ -107,7 +107,7 @@
             "open_issues": 13,
             "owner": "KirillOsenkov",
             "repo": "RoslynQuoter",
-            "stars": 1106,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -128,7 +128,7 @@
             "open_issues": 32,
             "owner": "dotnetcore",
             "repo": "FlubuCore",
-            "stars": 938,
+            "stars": 937,
             "topics": [
               "build",
               "build-automation",
@@ -166,11 +166,11 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-18T21:00:30Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-19T19:59:13Z",
+            "open_issues": 67,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
-            "stars": 918,
+            "stars": 916,
             "topics": [
               "c-sharp",
               "code-converter",
@@ -199,7 +199,7 @@
             "open_issues": 18,
             "owner": "antiufo",
             "repo": "roslyn-linq-rewrite",
-            "stars": 714,
+            "stars": 713,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -220,7 +220,7 @@
             "open_issues": 53,
             "owner": "daveaglick",
             "repo": "Scripty",
-            "stars": 619,
+            "stars": 617,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -241,7 +241,7 @@
             "open_issues": 19,
             "owner": "AArnott",
             "repo": "CodeGeneration.Roslyn",
-            "stars": 410,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -384,11 +384,11 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:00:10Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-19T15:53:00Z",
+            "open_issues": 49,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
-            "stars": 2874,
+            "stars": 2875,
             "topics": [
               "csharp",
               "linting"
@@ -412,7 +412,7 @@
             "open_issues": 1060,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1670,
+            "stars": 1669,
             "topics": [
               "hacktoberfest"
             ]
@@ -435,7 +435,7 @@
             "open_issues": 145,
             "owner": "code-cracker",
             "repo": "code-cracker",
-            "stars": 1145,
+            "stars": 1144,
             "topics": [
               "hacktoberfest"
             ]
@@ -458,7 +458,7 @@
             "open_issues": 98,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1134,
+            "stars": 1133,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -479,7 +479,7 @@
             "open_issues": 10,
             "owner": "cezarypiatek",
             "repo": "MappingGenerator",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "automapper",
               "c-sharp",
@@ -507,8 +507,8 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T00:37:34Z",
-            "open_issues": 261,
+            "last_commit": "2026-11-19T00:33:23Z",
+            "open_issues": 257,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 925,
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:37:36.043Z",
+    "last_updated": "2026-11-19T21:51:14.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -922,7 +922,7 @@
       "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
-      "stars": 734,
+      "stars": 733,
       "topics": [
         "awesome",
         "awesome-list",
