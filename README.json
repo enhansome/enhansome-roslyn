@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:14:20Z",
-            "open_issues": 6805,
+            "last_commit": "2026-11-24T17:41:23Z",
+            "open_issues": 6812,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20791,
+            "stars": 20793,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -359,7 +359,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T09:50:14Z",
-            "open_issues": 223,
+            "open_issues": 222,
             "owner": "dotnet",
             "repo": "roslynator",
             "stars": 3502,
@@ -384,8 +384,8 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-23T22:23:05Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-24T21:50:09Z",
+            "open_issues": 27,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
             "stars": 2875,
@@ -458,7 +458,7 @@
             "open_issues": 98,
             "owner": "SergeyTeplyakov",
             "repo": "ErrorProne.NET",
-            "stars": 1133,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:26.351Z"
@@ -684,8 +684,8 @@
             "id": 156765478,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2025-09-18T16:16:26Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-24T18:29:56Z",
+            "open_issues": 3,
             "owner": "cezarypiatek",
             "repo": "RoslynTestKit",
             "stars": 27,
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:14:59.114Z",
+    "last_updated": "2026-11-24T23:16:42.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
