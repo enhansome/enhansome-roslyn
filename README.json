@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T17:41:23Z",
-            "open_issues": 6812,
+            "last_commit": "2026-11-25T21:56:16Z",
+            "open_issues": 6816,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20793,
+            "stars": 20797,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -384,7 +384,7 @@
             "id": 26768275,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T21:50:09Z",
+            "last_commit": "2026-11-25T21:44:40Z",
             "open_issues": 27,
             "owner": "DotNetAnalyzers",
             "repo": "StyleCopAnalyzers",
@@ -412,7 +412,7 @@
             "open_issues": 1060,
             "owner": "dotnet",
             "repo": "roslyn-analyzers",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "hacktoberfest"
             ]
@@ -507,8 +507,8 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T00:34:30Z",
-            "open_issues": 257,
+            "last_commit": "2026-11-25T13:37:04Z",
+            "open_issues": 258,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
             "stars": 925,
@@ -685,7 +685,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-24T18:29:56Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "cezarypiatek",
             "repo": "RoslynTestKit",
             "stars": 27,
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:16:42.509Z",
+    "last_updated": "2026-11-25T22:48:57.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
