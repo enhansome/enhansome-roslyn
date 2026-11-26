@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-25T21:56:16Z",
-            "open_issues": 6816,
+            "last_commit": "2026-11-26T08:44:00Z",
+            "open_issues": 6825,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20797,
@@ -166,8 +166,8 @@
             "id": 114865076,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-24T00:52:36Z",
-            "open_issues": 65,
+            "last_commit": "2026-11-26T19:57:58Z",
+            "open_issues": 66,
             "owner": "icsharpcode",
             "repo": "CodeConverter",
             "stars": 916,
@@ -362,7 +362,7 @@
             "open_issues": 222,
             "owner": "dotnet",
             "repo": "roslynator",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "csharp",
               "dotnet",
@@ -507,7 +507,7 @@
             "id": 5582516,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T13:37:04Z",
+            "last_commit": "2026-11-26T08:29:59Z",
             "open_issues": 258,
             "owner": "SonarSource",
             "repo": "sonar-dotnet",
@@ -541,7 +541,7 @@
             "open_issues": 32,
             "owner": "microsoft",
             "repo": "RoslynClrHeapAllocationAnalyzer",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "allocations",
               "compiler",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:48:57.054Z",
+    "last_updated": "2026-11-26T22:37:57.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators",
@@ -922,7 +922,7 @@
       "open_issues": 14,
       "owner": "ironcev",
       "repo": "awesome-roslyn",
-      "stars": 733,
+      "stars": 734,
       "topics": [
         "awesome",
         "awesome-list",
